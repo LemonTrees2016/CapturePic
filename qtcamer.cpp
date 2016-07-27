@@ -47,7 +47,7 @@ void QtCamer::on_pushButton_clicked()
 void QtCamer::on_pushButton_2_clicked()
 {
     //关闭按钮
-
+    //用于关闭窗口
 }
 void QtCamer::Captured()
 {
